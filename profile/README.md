@@ -12,3 +12,13 @@ To request pre-access, please fill out the following Google Form. Our team will 
 [Google Form Link](https://forms.gle/iCdQiE14u6PNzarn7)
 
 Thank you for your interest in MonoGeoDepth. We look forward to your valuable contributions and feedback.
+
+## 📊 HiRISE DTM Dataset
+HiRISE DTMs are digital terrain models created for the surface of Mars. These DTMs are generated using stereo-matching techniques on two satellite images taken from different angles as part of the High-Resolution Imaging Science Experiment (HiRISE) project.
+
+This dataset consists of stereo pairs and their respective digital terrain models. This dataset is important for studies in depth estimation, computer vision, and geoscience fields.
+
+[Dataset Link](https://huggingface.co/datasets/Diffins/HiRISE-DTMs)
+
+Thank you for your interest in MonoGeoDepth. We look forward to your valuable contributions and feedback.
+
